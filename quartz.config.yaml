@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: YOURUSERNAME.github.io/tales-of-lost-omens-wiki
+  baseUrl: muse-writes.github.io/tales-of-lost-omens-wiki
   ignorePatterns:
     - private
     - templates
