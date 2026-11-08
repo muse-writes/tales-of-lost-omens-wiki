@@ -6,7 +6,7 @@ tags:
   - sinners-end
 cssclasses:
 ---
-Lilah Julia Andoricus (a.k.a. Lilah "Once-lost") is a player character originally from Abomination Vaults but has also featured as a noteworthy NPC and hireling in Tales of Lost Omens: Sinner's End. She is a human summoner with an eidolon named Prometheus. She is married to Wrin Sivinxi and acts as captain of the Thief's Redoubt, a stolen Chelaxian brig.
+Lilah Julia Andoricus (a.k.a. Lilah "Once-lost") is a player character introduced in Abomination Vaults, who has also featured as a noteworthy NPC and hireling in Tales of Lost Omens: Sinner's End. She is a human summoner with an eidolon named Prometheus. She is married to Wrin Sivinxi and acts as captain of the Thief's Redoubt, a stolen Chelaxian brig.
 ## Description
 Lilah is a woman of medium height and has a slightly broader than average build. She wears her curly white hair loose, or occasionally gathered into a ponytail. She has amethyst purple eyes. Lilah possesses a number of scars on her body, most notably is the round fist-sized patch in her chest and back, inflicted by a cannonball.
 
