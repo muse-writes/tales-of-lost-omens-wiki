@@ -5,7 +5,7 @@ tags:
   - twilight-academy
   - sinners-end
 ---
-Imari is a player character originally introduced in Twilight Academy. She is an anxious tripkee alchemist, with a witch archetype and a mysterious psychopomp patron.
+Imari is a player character introduced in Twilight Academy. She is a tripkee alchemist, with a witch archetype and a mysterious psychopomp patron.
 ## Description
 Imari is a young tripkee woman with orange and black patterned skin resembling a poison dart frog. She typically wears leather clothes, including a large pointed witch hat, patterned coat and trousers strapped with alchemical equipment, and boots. She stands at just under 4ft tall, and carries herself with a tense and awkward demeanour.
 ## Background
