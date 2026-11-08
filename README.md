@@ -8,6 +8,10 @@ Quartz is a set of tools that helps you publish your [digital garden](https://jz
 
 [Join the Discord Community](https://discord.gg/cRFFHYye7t)
 
+## Deployment
+
+Before deploying, a repository administrator must enable GitHub Pages in **Settings → Pages** and select **GitHub Actions** as the source. If deployment failed before Pages was enabled, run **Deploy Quartz site to GitHub Pages** from the Actions tab after configuring it.
+
 ## Sponsors
 
 <p align="center">
