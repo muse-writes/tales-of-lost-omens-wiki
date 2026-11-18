@@ -6,5 +6,14 @@ tags:
   - twilight-academy
 ---
 Eluna Saffron Telara Raincloud Oregano Geranium Emerald Nutmeg is a player character introduced in Kingmaker. She is a luminous sprite witch with an oracle dedication, formerly an oracle with a bard dedication. She is cursed by Yog-Sothoth.
-
-*This article is a stub*
+## Description
+Eluna is a luminous sprite woman of varying colour, though it is usually some shade of blue.
+## Background
+sad
+## Campaign History
+### Kingmaker
+questin
+### Twilight Academy
+chillin
+## Abilities
+eluna blast
